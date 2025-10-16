@@ -1,10 +1,10 @@
-# 🏠 Prapest - Chore & Reward Manager
+# Prapest - Chore & Reward Manager
 
 A modern web application for organizing household chores and rewards. Parents can create chores and rewards, while children can complete chores to earn points and redeem them for rewards. Built with React and Node.js.
 
-## ✨ Features
+## Features
 
-### For Parents 👨‍👩‍👧‍👦
+### For Parents
 - **F1: Add Rewards** - Create rewards that children can redeem for a set number of points
 - **F2: Add Chores** - Create chores/tasks with point rewards
 - **View Family** - See all family members and their point balances
@@ -244,32 +244,15 @@ Prapest/
 - Solution: The `database.json` file stores all data. Make sure it's not being deleted
 - Check file permissions
 
-## 🔮 Future Enhancements
-
-Ideas for future development:
-- [ ] Add profile pictures for users
-- [ ] Implement chore assignments (parent assigns specific chores to specific children)
-- [ ] Add recurring chores (daily, weekly, etc.)
-- [ ] Notification system
-- [ ] Mobile app version
-- [ ] Integration with the 2D platformer game
-- [ ] Statistics and charts for tracking progress
-- [ ] Photo verification for completed chores
-- [ ] Custom themes and avatars
-
-## 📝 License
+## License
 
 MIT License - Feel free to use and modify as needed.
 
-## 🤝 Contributing
+## Contributing
 
 This is a personal project, but suggestions and improvements are welcome!
 
-## 📧 Support
+## Support
 
 If you encounter any issues, please check the Troubleshooting section or create an issue in the repository.
-
----
-
-**Enjoy organizing your household chores! 🏠✨**
 
